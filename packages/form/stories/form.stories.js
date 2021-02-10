@@ -20,7 +20,7 @@ export const Login = () => ({
                 <drt-input type="password" v-model="user.password"></drt-input>
             </drt-form-item>
             <drt-form-item>
-                <drt-button type="primary" @click="login">登 录14</drt-button>
+                <drt-button type="primary" @click="login">登 录15</drt-button>
             </drt-form-item>
         </drt-form>
     `,
