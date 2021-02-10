@@ -8,7 +8,7 @@
 
 <script>
 export default {
-    name: 'LgButton',
+    name: 'LgSteps',
     methods: {
         handleClick (evt) {
             this.$emit('click',evt)

@@ -1,26 +1,26 @@
-import LgInput from '../'
+import DrtInput from '../'
 
 export default {
-    title: 'LgInput',
-    component: LgInput
+  title: 'DrtInput',
+  component: DrtInput
 }
 
 export const Text = () => ({
-    component: { LgInput },
-    template: '<lg-input v-model="value"></lg-input>',
-    data () {
-        return {
-            value: 'admin'
-        }
+  components: { DrtInput },
+  template: '<drt-input v-model="value"></drt-input>',
+  data () {
+    return {
+      value: 'admin'
     }
+  }
 })
 
-export const PassWord = () => ({
-    component: { LgInput },
-    template: '<lg-input type="password" v-model="value"></lg-input>',
-    data () {
-        return {
-            value: 'dddd'
-        }
+export const Password = () => ({
+  components: { DrtInput },
+  template: '<drt-input type="password" v-model="value"></drt-input>',
+  data () {
+    return {
+      value: 'admin'
     }
+  }
 })

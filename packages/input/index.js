@@ -1,7 +1,7 @@
-import Input from './src/input.vue'
+import DrtInput from './src/input.vue'
 
-Input.install = Vue => {
-    Vue.component(Input.name,Input)
+DrtInput.install = Vue => {
+    Vue.component(DrtInput.name,DrtInput)
 }
 
-export default Input
+export default DrtInput
