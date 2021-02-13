@@ -3,7 +3,7 @@
   "workspaces": [
     "packages/*"
   ],
-  "name": "vue-companent-storybook",
+  "name": "vue-companent-storybook-duanzi",
   "version": "1.0.0",
   "description": "",
   "main": "index.js",
