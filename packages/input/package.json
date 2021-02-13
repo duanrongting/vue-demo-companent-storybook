@@ -1,5 +1,5 @@
 {
-  "name": "drt-input",
+  "name": "drt-input-duanzi",
   "version": "0.0.18",
   "description": "",
   "main": "index.js",
@@ -12,5 +12,5 @@
   "dependencies": {
     "lodash": "3"
   },
-  "gitHead": "03dfb947b9c98e76ef41b070f28fd0fb3e03dc43"
+  "gitHead": "a1aed880408c24e1be480f33bc00323e3628c0ae"
 }
