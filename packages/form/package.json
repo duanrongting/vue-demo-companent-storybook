@@ -1,5 +1,5 @@
 {
-  "name": "drt-form-duanzi",
+  "name": "drt-form-duanzi1111",
   "version": "0.0.19",
   "description": "",
   "main": "index.js",
@@ -12,5 +12,5 @@
   "dependencies": {
     "lodash": "4"
   },
-  "gitHead": "a1aed880408c24e1be480f33bc00323e3628c0ae"
+  "gitHead": "4ce08e305d0af720032ed78a5c150cbf010397e4"
 }
